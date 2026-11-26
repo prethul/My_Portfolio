@@ -22,10 +22,6 @@ A fast, responsive personal portfolio showcasing my projects, skills, and journe
 ## 🚀 Live Preview
 
 👉 **[https://diptoprethul.netlify.app/](https://diptoprethul.netlify.app/)**
-
-> 📸 *Add a screenshot or GIF here:*
-> `![Portfolio Preview](./assets/preview.png)`
-
 ---
 
 ## 👋 About
